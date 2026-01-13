@@ -1,2 +1,7 @@
-# Solidity-Security-Patterns
-Implementation of common security patterns in Solidity to prevent Reentrancy, Overflow, and Access Control vulnerabilities
+# 🛡️ Solidity Security Patterns
+Best practices for writing secure smart contracts.
+
+## Patterns included:
+- Reentrancy Guard
+- Ownable 2-step
+- Pull-over-Push payments
